@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\obj\Debug\net6.0\ProgramVetores09.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\obj\Debug\net6.0\ProgramVetores09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\obj\Debug\net6.0\ProgramVetores09.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\obj\Debug\net6.0\ProgramVetores09.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\obj\Debug\net6.0\ProgramVetores09.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\bin\Debug\net6.0\ProgramVetores09.exe
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\bin\Debug\net6.0\ProgramVetores09.deps.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\bin\Debug\net6.0\ProgramVetores09.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\bin\Debug\net6.0\ProgramVetores09.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\bin\Debug\net6.0\ProgramVetores09.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\obj\Debug\net6.0\ProgramVetores09.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\obj\Debug\net6.0\refint\ProgramVetores09.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\obj\Debug\net6.0\ProgramVetores09.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\obj\Debug\net6.0\ProgramVetores09.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores09\ProgramVetores09\obj\Debug\net6.0\ref\ProgramVetores09.dll
