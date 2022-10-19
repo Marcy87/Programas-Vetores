@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\bin\Debug\net6.0\ProgramVetores05.exe
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\bin\Debug\net6.0\ProgramVetores05.deps.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\bin\Debug\net6.0\ProgramVetores05.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\bin\Debug\net6.0\ProgramVetores05.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\bin\Debug\net6.0\ProgramVetores05.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\obj\Debug\net6.0\ProgramVetores05.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\obj\Debug\net6.0\ProgramVetores05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\obj\Debug\net6.0\ProgramVetores05.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\obj\Debug\net6.0\ProgramVetores05.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\obj\Debug\net6.0\ProgramVetores05.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\obj\Debug\net6.0\ProgramVetores05.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\obj\Debug\net6.0\refint\ProgramVetores05.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\obj\Debug\net6.0\ProgramVetores05.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\obj\Debug\net6.0\ProgramVetores05.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 6 - Vetores\Programas - Vetores C#\ProgramVetores05\ProgramVetores05\obj\Debug\net6.0\ref\ProgramVetores05.dll
